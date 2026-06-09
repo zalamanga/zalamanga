@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Muhammad Rafik Muzakir Alfaruq Silvian**, a Software Engineer and Fullstack Developer based in **Subang Jaya, Selangor, Malaysia**.
+Hi, I'm **Muhammad Rafik Muzakir Alfaruq Silvian**, a Software Engineer and Fullstack Developer based in **Bogor, Jawa Barat, Indonesia**.
 
 I have hands-on experience building web and mobile applications using **Laravel, Vue.js, React, PHP, MySQL, and Flutter**. I enjoy creating clean, scalable, and user-friendly digital solutions.
 
